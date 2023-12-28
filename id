@@ -3,3 +3,5 @@ local randomSeed = {
   2667512785,
   3206637855,
 }
+getgenv.randomSeed = randomSeed
+  
